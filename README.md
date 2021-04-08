@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Matthew Giammar
-- 👀 I’m interested in chemistry, math and computers
-- 🌱 I’m currently studying at the Ohio State University
+- 🌱 I’m currently studying biochem and math at OSU
 
 <!---
 mgiammar/mgiammar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
