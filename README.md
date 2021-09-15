@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Matthew Giammar
-- 🌱 I’m currently studying biochem and math at OSU
+- 🌱 I’m currently studying biochemistry at OSU
 
 <!---
 mgiammar/mgiammar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
