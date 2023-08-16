@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Matthew Giammar
-- 🌱 I’m currently studying biochemistry at OSU
+Hi, I’m Matthew Giammar, a Computational Biology PhD student at the University of California, Berkeley.
 
 <!---
 mgiammar/mgiammar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
